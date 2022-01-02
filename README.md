@@ -1,7 +1,7 @@
-# Fork Bomb
+# 💣 Fork Bomb 💣
 **Fork bombs in lots of different languages.**
 
-Current languages <i>(more to comes)</i>:
+## Current languages <i>(more to comes)</i>:
 
  - Ada
  - **Assembly**
